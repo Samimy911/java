@@ -236,5 +236,5 @@ Non-primitive Data Types
 	 inheritance:child classes inherit data and behaviours from parent class
 	 Encapsulation:Containing information in an object, exposing only selected information
 	 Abstraction: only exposing high level public methods for accessing  an object 
-	polymorphism:many methods can do the same task
+	 polymorphism:many methods can do the same task
 
