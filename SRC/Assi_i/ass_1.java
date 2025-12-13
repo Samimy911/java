@@ -233,3 +233,8 @@ Non-primitive Data Types
 	•	Enums
 	•	Objects created from user-defined classes
 
+	 inheritance:child classes inherit data and behaviours from parent class
+	 Encapsulation:Containing information in an object, exposing only selected information
+	 Abstraction: only exposing high level public methods for accessing  an object 
+	polymorphism:many methods can do the same task
+
